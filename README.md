@@ -11,7 +11,7 @@ This is an account to host gists with data for the RAMP VIS project ([rampvis-ap
 * No need for pull requests and other overhead, unlike normal github. Thus saving team members' time.
 * Loading data from gists means it is not neccessary to push data along with code to the other repositories.
 
-To create a gist, log into this account. Then go to https://gist.github.com/ and drag the file into the box, alternatively, excplicitly copy the contents of the file into the box. Then, decide if the gist should be public, that is searchable, or private meaning you need the URL to find it. Now the data you uploaded can be seen at https://gist.github.com/rampvisdevelopment, and to get a URL for it, go to the gist, click raw and copy that url. 
+To create a gist, log into this account. Then go to https://gist.github.com/ and drag the file into the box, alternatively, explicitly copy the contents of the file into the box. Then, decide if the gist should be public, that is searchable, or private meaning you need the URL to find it. Now the data you uploaded can be seen at https://gist.github.com/rampvisdevelopment, and to get a URL for it, go to the gist, click raw and copy that url. 
 
 To get the latest version of the data, if it is updated, remove the characters between "raw" and the file name.   
 Thus, the url ".../raw/123456789/example.txt" would go to ".../raw/example.txt" and so on.
