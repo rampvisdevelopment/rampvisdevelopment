@@ -1,4 +1,4 @@
-### Idea behind this account
+### The rampvisdevelopment account
 This is an account to host gists with data for the RAMP VIS project ([rampvis-api](https://github.com/ScottishCovidResponse/rampvis-api), [rampvis-ui](https://github.com/ScottishCovidResponse/rampvis-ui)).
 
 [gist/gists](https://docs.github.com/en/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists) is a service github offers to upload one or a small number of files rather than an entire project. 
@@ -17,7 +17,7 @@ To get the latest version of the data, if it is updated, remove the characters b
 Thus, the url ".../raw/123456789/example.txt" would go to ".../raw/example.txt" and so on.
 
 **Limitations of gists**
-* Gist lacks many features of normal github. Its is for storing small files needed for development rather a place for development itself.
+* Gist lacks many features of normal github. It is for storing small files needed for development rather a place for development itself.
 
 <!--
 **rampvisdevelopment/rampvisdevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
