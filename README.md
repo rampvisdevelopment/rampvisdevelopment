@@ -36,7 +36,8 @@ Similar to using gists you will need to add the information required by the down
     }
 ```
 
-
+## ⚠️ Caveats ⚠️
+**The file ending of the url is important for the files to be downloaded correctly**, currently the supported formats are: `.csv`,`.json`and `.zip`.
 <!--
 **rampvisdevelopment/rampvisdevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
