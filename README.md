@@ -24,7 +24,7 @@ Thus, the url ".../raw/123456789/example.txt" would go to ".../raw/example.txt" 
 * Gist lacks many features of normal github. It is for storing small files needed for development rather a place for development itself.
 
 ### Repositories
-If you have a larger number of files with a folder structure you would like to preserve you can create a repository on this account, similar to the [example repository](https://github.com/rampvisdevelopment/example_data_respository). This will be downloaded as a zip file and unzipped by the download agent if you provide the appropriate url to the api, for the example repository this is: `https://github.com/rampvisdevelopment/example_data_respository/archive/main.zip`.
+If you have a larger number of files with a folder structure you would like to preserve you can create a normal repository on this account, similar to the [example repository](https://github.com/rampvisdevelopment/example_data_respository). This will be downloaded as a zip file and unzipped by the download agent if you provide the appropriate url to the api, for the example repository this is: `https://github.com/rampvisdevelopment/example_data_respository/archive/main.zip`.
 
 Similar to using gists you will need to add the information required by the downloader agent to `url.json`, for the [example repository](https://github.com/rampvisdevelopment/example_data_respository) this might be:
 
